@@ -1,0 +1,7 @@
+enemy_id,name,hp,attack,defense,gold_drop,location_id
+E1,Goblin,30,8,3,10,L2
+E2,Ork Besar,60,15,6,25,L3
+E3,Serigala,40,10,4,15,L4
+E4,Naga Muda,120,30,15,80,L5
+E5,Zombie,35,7,2,12,L2
+E6,Penyihir,50,20,5,30,L3

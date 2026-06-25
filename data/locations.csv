@@ -1,0 +1,6 @@
+loc_id,name,description,north,south,east,west
+L1,Gerbang Kerajaan,Pintu masuk ke dungeon yang gelap.,,L2,,
+L2,Lorong Batu,Lorong sempit berbau lembab.,L1,L3,L4,
+L3,Ruang Bawah Tanah,Ruang gelap berisi peti harta karun.,L2,,,
+L4,Hutan Misterius,Hutan lebat dengan suara aneh.,,,,L2
+L5,Gua Naga,Sarang naga yang menyemburkan api.,,,L3,

@@ -1,0 +1,9 @@
+item_id,name,type,value,effect
+I1,Pedang Besi,weapon,50,15
+I2,Perisai Kayu,armor,30,10
+I3,Ramuan Merah,potion,20,30
+I4,Busur Elfin,weapon,80,20
+I5,Helm Baja,armor,40,12
+I6,Ramuan Biru,potion,25,50
+I7,Tongkat Sihir,weapon,70,25
+I8,Jubah Malam,armor,60,18
