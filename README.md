@@ -40,5 +40,5 @@ Aplikasi akan otomatis membuat folder `data/` dan file CSV berikut saat pertama 
 
 1. **Clone Repositori:**
    ```bash
-   git clone [https://github.com/username-kamu/dungeon-adventure-game.git](https://github.com/farid404ops/dungeon-adventure-game.git)
+   git clone [https://github.com/farid404ops/dungeon-adventure-game.git](https://github.com/farid404ops/dungeon-adventure-game.git)
    cd dungeon-adventure-game
